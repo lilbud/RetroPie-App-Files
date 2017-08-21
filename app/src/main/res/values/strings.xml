@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="false">RetroPie Forum</string>
+
+    <!-- Strings -->
+    <string name="global_offline_toast">NO CONNECTION FOUND!</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="placeholder_empty">Not found!</string>
+    <string name="placeholder_offline">NO CONNECTION FOUND!</string>
+
+    <string name="fragment_main_downloading">Downloading…</string>
+    
+    <!-- GCM Sender ID -->
+    <string name="gcm_defaultSenderId">124618051580</string>
+</resources>

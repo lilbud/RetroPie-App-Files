@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Navigation Items -->
+    <string-array name="navigation_title_list">
+        <item>Home</item>
+    </string-array>
+
+    <!-- URLs -->
+    <string-array name="navigation_url_list">
+        <item>https://retropie.org.uk/forum/</item>
+
+    </string-array>
+
+    <!-- Navigation Icons -->
+    <string-array name="navigation_icon_list">
+        <item>@drawable/ic_drawer_home</item>
+    </string-array>
+
+
+</resources>
